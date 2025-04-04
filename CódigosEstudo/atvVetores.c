@@ -84,7 +84,7 @@ int main() {
         printf("2 - Checar elemento no vetor\n");
         printf("3 - Retirar elemento\n");
         printf("4 - Inserir novo elemento\n");
-        printf("0 - Encerrar\n");
+        printf("0 - Encerrar programa\n");
         printf("Escolha uma opção: ");
         scanf("%d", &opcao);
 
