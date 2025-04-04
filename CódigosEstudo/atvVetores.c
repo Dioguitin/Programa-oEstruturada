@@ -117,7 +117,7 @@ int main() {
                 }
                 break;
             case 0:
-                printf("Encerrando programa...\n");
+                printf("O programa foi encerrado.\n");
                 default:
                 printf("Opção inválida.\n");
                 break;
