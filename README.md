@@ -1,3 +1,7 @@
+**(Questões da aula do sábado (31/05/25) estão na pasta "tentativasAulaExtra")**
+<br/>
+<br/>
+<br/>
 Vídeo de testes do código da atividade de arquivos -
 <br/>
 <br/>
