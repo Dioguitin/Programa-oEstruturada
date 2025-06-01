@@ -1,0 +1,19 @@
+Inputs para o código de registro dos clientes do banco:
+(Copiar e colar no console do programa, **NÃO COLAR EM LINHA ÚNICA**!)
+
+1
+1
+1001
+João da Silva
+12345678900
+11999999999
+1500.00
+1
+2
+2002
+Maria Oliveira
+98765432100
+21988888888
+3200.00
+
+**IMPORTANTA**(APERTAR ENTER APÓS COLAR OS INPUTS NO CONSOLE PARA COMPLETAR O CADASTRA DA CONTA POUPANÇA)**IMPORTANTE**

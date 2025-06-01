@@ -1,0 +1,165 @@
+Inputs para o código de registro dos produtos da papelaria:
+(Copiar e colar no console do programa, **NÃO COLAR EM LINHA ÚNICA**!)
+
+
+
+1001
+Caneta Azul
+2.50
+100
+1002
+Caneta Preta
+2.50
+100
+1003
+Lápis HB
+1.20
+150
+1004
+Lápis 2B
+1.50
+120
+1005
+Borracha Branca
+0.90
+200
+1006
+Borracha Azul
+1.10
+180
+1007
+Apontador Simples
+1.00
+100
+1008
+Apontador com Depósito
+2.50
+80
+1009
+Caderno Universitário 10 Matérias
+18.90
+50
+1010
+Caderno Pequeno
+12.50
+60
+1011
+Caderno de Desenho
+15.00
+40
+1012
+Cola Branca
+3.20
+100
+1013
+Cola Bastão
+4.50
+90
+1014
+Tesoura Escolar
+5.00
+70
+1015
+Régua 30cm
+2.00
+150
+1016
+Régua 15cm
+1.50
+100
+1017
+Compasso Escolar
+6.50
+40
+1018
+Transferidor
+2.20
+50
+1019
+Esquadro 45°
+3.00
+60
+1020
+Esquadro 60°
+3.00
+60
+1021
+Bloco de Notas
+4.00
+80
+1022
+Post-it
+5.50
+100
+1023
+Marcador de Texto Amarelo
+3.50
+90
+1024
+Marcador de Texto Rosa
+3.50
+90
+1025
+Canetinha Hidrocor 12 cores
+12.00
+70
+1026
+Canetinha Hidrocor 24 cores
+20.00
+50
+1027
+Lápis de Cor 12 cores
+10.00
+80
+1028
+Lápis de Cor 24 cores
+18.00
+40
+1029
+Grampeador Pequeno
+9.90
+60
+1030
+Grampeador Médio
+15.00
+40
+1031
+Grampo nº 10
+1.20
+300
+1032
+Grampo nº 23/6
+2.00
+200
+1033
+Fita Adesiva Pequena
+1.80
+150
+1034
+Fita Adesiva Grande
+3.50
+100
+1035
+Fita Dupla Face
+4.00
+70
+1036
+Pasta Plástica com Elástico
+3.00
+120
+1037
+Pasta Sanfonada
+10.00
+50
+1038
+Envelope Branco A4
+0.50
+500
+1039
+Envelope Pardo A4
+0.70
+400
+1040
+Papel Sulfite A4 (500 folhas)
+25.00
+30

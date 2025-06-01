@@ -1,0 +1,82 @@
+Inputs para o código de registro de estados:
+(Copiar e colar no console do programa, **NÃO COLAR EM LINHA ÚNICA**!)
+
+
+Acre
+120000
+500
+Alagoas
+320000
+1400
+Amapá
+150000
+700
+Amazonas
+140000
+800
+Bahia
+400000
+2000
+Ceará
+245000
+3780
+Espírito Santo
+200000
+1438
+Goiás
+150000
+894
+Maranhão
+145000
+2700
+Mato Grosso
+450000
+2320
+Mato Grosso do Sul
+345000
+1765
+Minas Gerais
+500000
+3769
+Pará
+156000
+2305
+Paraíba
+320000
+3450
+Paraná
+246000
+3456
+Pernambuco
+600000
+4000
+Piauí
+240000
+1674
+Rio Grande do Norte
+450000
+6700
+Rio Grande do Sul
+420000
+3560
+Rio de janeiro
+700000
+5470
+Rondônia
+300000
+2500
+Roraima
+260000
+3400
+Santa Catarina
+360000
+2378
+São Paulo
+950000
+4800
+Sergipe
+160000
+2000
+Tocantins
+140000
+1634
